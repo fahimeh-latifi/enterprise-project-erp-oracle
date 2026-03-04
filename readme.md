@@ -4,7 +4,9 @@ Oracle 19c | PL/SQL | Performance Optimization | Security & Partitioning
 Author: Fahimeh Latifi
 Database Developer | Oracle & Enterprise Systems
 Toronto, Canada
+This project simulates an enterprise-grade sales, procurement, and finance system with integrated database solutions.  
 
+**Note:** This project is a simulation of an enterprise system for learning and portfolio purposes. All data and workflows are fictional and for demonstration only.
 📌 Project Overview
 
 This project simulates a real-world Enterprise ERP-style database system covering:
